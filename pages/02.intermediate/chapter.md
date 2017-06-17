@@ -5,7 +5,7 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 2
+### Chapter 2 edited in Git
 
 # Intermediate
 
