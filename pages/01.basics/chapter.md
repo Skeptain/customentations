@@ -6,7 +6,7 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 1#### Welcome to Customizations.org
+### Chapter 1 #### Welcome to Customizations.org
 
 # Introduction
 
