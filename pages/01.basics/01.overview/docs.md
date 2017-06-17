@@ -13,7 +13,8 @@ Each adaptation has been tested for functionality and the version of the softwar
 
 You've read everything to this point? Whoah, you seem to be motivated, we are looking for guys like you! As promised, on the next page you will find an explanation of how to add your own customizations to the directory. We are pleased with every contribution and hope to create a considerable collection of customizations. But please be aware that providing customized files is no way since files include code written by the developer as well. We need a documentation about the customization itself.
 
-```js public function createBlogStream($blog, $isNew)
+```js 
+public function createBlogStream($blog, $isNew)
 
 if (!$this->exists()) {
 return false;
