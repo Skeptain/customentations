@@ -6,5 +6,8 @@ taxonomy:
 child_type: docs
 ---
 
-### Customizations for several Joomla components
+### Chapter 1 Welcome to Customizations.org
 
+# Introduction
+
+What we do and what you get and how to participate
