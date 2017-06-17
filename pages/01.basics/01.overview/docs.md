@@ -5,7 +5,9 @@ taxonomy:
         - docs
 ---
 
-Let's be honest, you bought an extension, but the manufacturer's options do not meet all your needs. Just a little here and a little there and it would be perfect. But unfortunately, adjustments are not part of the purchased support. This is more than understandable, after all, it would be impossible for the developer to make all the required adjustments directly for time reasons. So you put your hand on more or less successfully. Here we will summarize all these small changes and create a directory, where you can quickly and easily explain how to do it.
+Let's be honest, you bought an extension, but the manufacturer's options do not meet all your needs. Just a little here and a little there and it would be perfect. But unfortunately, adjustments are not part of the purchased support. This is more than understandable, after all, it would be impossible for the developer to make all the required adjustments directly for time reasons. So you put your hand on more or less successfully. Here we will summarize all these small changes and create a directory, where you can quickly and easily reconstruct them.
+
+===
 
 This list of customizations for extensions will be expanded from time to time. So that you can add your customizations to the directory, this page synchronizes with GitHub. If you are not familiar with GitHub, you will find a tutorial on the following page, which can be used to expand the page to include your own customization. To access the repository, please contact me via email at sabih@customizations.org and I will add you to the project. Each entry is marked with a link to your page and you as the creator of the customization.
 
