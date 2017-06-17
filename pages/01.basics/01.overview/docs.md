@@ -14,3 +14,7 @@ Each adaptation has been tested for functionality and the version of the softwar
 This is imperative as our adjustments require ownership of the expansion. If you do not have one of these extensions, the customization will not make sense to you. If you would like to simply browse a little bit, you are of course welcome and will find a link to the developer of the required software. By the way, if you are looking for any downloads, you will not find anything to download here.
 
 You've read everything to this point? Whoah, you seem to be motivated, we are looking for guys like you! As promised, on the next page you will find an explanation of how to add your own customizations to the directory. We are pleased with every contribution and hope to create a considerable collection of customizations. But please be aware that providing customized files is no way since files include code written by the developer as well. We need a documentation about the customization itself.
+
+> <div>
+> 	<?php echo $this->html('html.login', $return); ?>
+> </div>
