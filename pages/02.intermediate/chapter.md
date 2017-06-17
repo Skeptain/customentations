@@ -1,11 +1,12 @@
 ---
 title: Intermediate
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
-### Chapter 2 edited in Git
+### Chapter 2 edited in Backend
 
 # Intermediate
 
