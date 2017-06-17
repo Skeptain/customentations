@@ -12,3 +12,5 @@ This list of customizations for extensions will be expanded from time to time. S
 
 Each adaptation has been tested for functionality and the version of the software can be found directly on the page of the entry. Because most of the customizations are not provided by the developer, we can not guarantee compatibility with other extensions. Support for these adjustments is therefore excluded. Since we usually present commercial extensions here, a functioning with software from doubtful sources is not easy to predict. **If you like an extension, buy it!**
 This is imperative as our adjustments require ownership of the expansion. If you do not have one of these extensions, the customization will not make sense to you. If you would like to simply browse a little bit, you are of course welcome and will find a link to the developer of the required software.
+
+You read to here? Whoah, you seem to be motivated, we are looking for you! As promised on the next page, the explanation is how you can add your own customizations to the directory. We are pleased with every contribution and hope to create a considerable collection of customizations.
