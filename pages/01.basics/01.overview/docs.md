@@ -15,6 +15,6 @@ This is imperative as our adjustments require ownership of the expansion. If you
 
 You've read everything to this point? Whoah, you seem to be motivated, we are looking for guys like you! As promised, on the next page you will find an explanation of how to add your own customizations to the directory. We are pleased with every contribution and hope to create a considerable collection of customizations. But please be aware that providing customized files is no way since files include code written by the developer as well. We need a documentation about the customization itself.
 
-'<div>
+'''<div>
 	<?php echo $this->html('html.login', $return); ?>
-</div>'
+</div>'''
