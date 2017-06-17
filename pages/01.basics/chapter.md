@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: Introduction
 taxonomy:
     category:
         - docs
