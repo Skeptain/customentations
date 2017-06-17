@@ -1,12 +1,13 @@
 ---
 title: Basics
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
 ### Chapter 1
 
-# Basics Sync Test
+# Basics Sync Test from backend
 
 Discover the **basic** principles
