@@ -1,2 +1,4 @@
-# customentations
-Documentation of customizations for Joomla components and more
+# Customizings.net
+Usage of the site and this repository
+
+
