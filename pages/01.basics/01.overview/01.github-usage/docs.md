@@ -9,4 +9,4 @@ To process this guide, you have already received an invitation from me. If not, 
 
 You can find the repository at https://github.com/Skeptain/customizings.net. After clicking on the button within the invitation email of GitHub, you will be directed directly to the repository and this should be shown here:
 
-![](http://customizings.net/images/repository.png)
+![](https://customizings.net/images/repository.png)
