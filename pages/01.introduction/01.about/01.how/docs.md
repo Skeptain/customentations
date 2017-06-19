@@ -1,5 +1,5 @@
 ---
-title: Participate
+title: How
 taxonomy:
     category:
         - docs
