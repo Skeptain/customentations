@@ -1,5 +1,5 @@
 ---
-title: Customizings.net
+title: Customizings
 ---
 
 Let's be honest, you bought an extension, but the manufacturer's options do not meet all your needs. Just a little here and a little there and it would be perfect. But unfortunately, adjustments are not part of the purchased support. This is more than understandable, after all, it would be impossible for the developer to make all the required adjustments directly for time reasons. So you put your hand on more or less successfully. Here we will summarize all these small changes and create a directory, where you can quickly and easily reconstruct them.
