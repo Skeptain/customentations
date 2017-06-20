@@ -1,5 +1,5 @@
 ---
-title: 'Docker Custom Links'
+title: 'Custom Links in Menu'
 taxonomy:
     category:
         - docs
