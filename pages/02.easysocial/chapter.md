@@ -10,4 +10,4 @@ child_type: docs
 
 # EasySocial
 
-Link to developer: [http://stackideas.com](http://stackideas.com)
+Link to developer: [https://stackideas.com](https://stackideas.com)
