@@ -14,7 +14,7 @@ taxonomy:
 
 Open your default.php file and remove the following code:
 
-´´´js
+```js
 <div>
 	<?php echo $this->html('html.login', $return); ?>
 </div>
