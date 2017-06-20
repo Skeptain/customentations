@@ -12,7 +12,7 @@ taxonomy:
 
 ![](https://customizings.net/imgs/login-box.png)
 
-Open **default.php** file inside your override folder and remove the following code:
+Open **default.php** inside your override folder and remove the following code:
 
 ```js
 <div>
