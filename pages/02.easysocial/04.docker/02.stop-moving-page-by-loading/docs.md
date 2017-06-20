@@ -1,5 +1,5 @@
 ---
-title: 'Docker Stop Moving by Loading'
+title: 'Stop Moving Page by Loading'
 taxonomy:
     category:
         - docs
