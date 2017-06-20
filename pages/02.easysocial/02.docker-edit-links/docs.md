@@ -25,13 +25,10 @@ Open **default.php** and you will find the following code:
 ```
 
 You can easily modify this part by replacing the link and the icon. Just replace this
-
-´´´js
+```js
 <?php echo ESR::profile();?>
 ```
-
 by
-
 ```js
 /URL/SUB-URL/...
 ```
