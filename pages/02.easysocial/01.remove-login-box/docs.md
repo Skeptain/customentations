@@ -14,7 +14,7 @@ taxonomy:
 
 Open **default.php** inside your override folder and remove the following code:
 
-```js
+```php
 <div>
 	<?php echo $this->html('html.login', $return); ?>
 </div>
