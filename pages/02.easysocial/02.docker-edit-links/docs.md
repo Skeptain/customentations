@@ -24,7 +24,8 @@ Open **default.php** and you will find the following code:
 </li>
 ```
 
-You can easily modify this part by replacing the link and the icon. Just replace this ´´´js
+You can easily modify this part by replacing the link and the icon. Just replace this 
+´´´js
 <?php echo ESR::profile();?>
 ```
 by
