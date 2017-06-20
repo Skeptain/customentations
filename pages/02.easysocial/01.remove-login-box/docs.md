@@ -12,3 +12,10 @@ taxonomy:
 
 ![](https://customizings.net/imgs/login-box.png)
 
+Open your default.php file and remove the following code:
+
+´´´js
+<div>
+	<?php echo $this->html('html.login', $return); ?>
+</div>
+
