@@ -13,7 +13,7 @@ If you got your Docker position on top you will recognize that your site moves d
 
 At first you should make sure that your Docker is positioned on **bottom**. Yes, sounds strange but it is no typo. Now add the following to your custom.css:
 
-```js
+```css
 #es.es-docker.is-bottom {
 	height: 44px;
 	top: 0; }
