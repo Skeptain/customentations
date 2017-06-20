@@ -24,17 +24,18 @@ Open **default.php** and you will find this code. This is one of many links insi
 </li>
 ```
 
-You can easily modify this by replacing the link and the icon. For having another link just replace this
+Pick up the following and replace it by your desired URL for this link:
 ```js
 <?php echo ESR::profile();?>
 ```
-by the URL you like. In example the default community profile page:
-```js
-/community/profile
-```
 
-The overview of all available FontAwesome icons you can find here: http://fontawesome.io/icons/ Just take the code from there and replace this:
+The overview of all available FontAwesome icons you can find here: http://fontawesome.io/icons/ Just take the code from there and replace this by the icon code provided on the FontAwesome page.:
 ```js
 fa fa-male
 ```
-by the icon code provided on the FontAwesome page.
+
+To change the link Title go for this and replace it by your own title. You can also search your language file for this string and replace the translation there:
+```js
+COM_EASYSOCIAL_PROFILE
+```
+
