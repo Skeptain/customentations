@@ -1,5 +1,5 @@
 ---
-title: 'Docker Edit Links'
+title: 'Docker Custom Links'
 taxonomy:
     category:
         - docs
