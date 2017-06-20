@@ -24,17 +24,17 @@ Open **default.php** and you will find this code. This is one of many links insi
 </li>
 ```
 
-Pick up the following and replace it by your desired URL for this link:
+To replace the existing link with your custom link, replace this it by your desired URL:
 ```js
 <?php echo ESR::profile();?>
 ```
 
-The overview of all available FontAwesome icons you can find here: http://fontawesome.io/icons/ Just take the code from there and replace this by the icon code provided on the FontAwesome page.:
+The overview of all available FontAwesome icons you can find here: http://fontawesome.io/icons/ Just take the code from there and replace this:
 ```js
 fa fa-male
 ```
 
-To change the link Title go for this and replace it by your own title. You can also search your language file for this string and replace the translation there:
+To change the link title go for this and replace it by your own title. You can also search your language file for this string and replace the translation there:
 ```js
 COM_EASYSOCIAL_PROFILE
 ```
