@@ -10,3 +10,5 @@ taxonomy:
 **File**: /components/com_easysocial/themes/wireframe/dashboard/guests/default.php</br>
 **Override**: /templates/template/html/com_easysocial/dashboard/guests/default.php</br>
 
+![](https://customizings.net/imgs/login-box.png)
+
