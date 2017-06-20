@@ -15,7 +15,7 @@ taxonomy:
 
 Open **default.php** and you will find this code. This is one of many links inside the docker plugin menu. Each link looks like this:
 
-```js
+```php
 <li>
 		<a href="<?php echo ESR::profile();?>">
 		<i class="fa fa-male"></i>
