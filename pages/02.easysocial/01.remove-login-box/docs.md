@@ -5,8 +5,8 @@ taxonomy:
         - docs
 ---
 
-<p>**Joomla**: 3.7.2<p>
-<p>**EasySocial**: 2.0.19<p>
+**Joomla**: 3.7.2</br>
+**EasySocial**: 2.0.19
 **File**: 
 * /components/com_easysocial/themes/wireframe/dashboard/guests/default.php
 **Override**:
