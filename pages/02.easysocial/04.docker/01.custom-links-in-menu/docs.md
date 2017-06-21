@@ -17,10 +17,10 @@ Open **default.php** and you will find this code. This is one of many links insi
 
 ```php
 <li>
-		<a href="<?php echo ESR::profile();?>">
-		<i class="fa fa-male"></i>
-		<span><?php echo JText::_('COM_EASYSOCIAL_PROFILE');?></span>
-	</a>
+  <a href="<?php echo ESR::profile();?>">
+  <i class="fa fa-male"></i>
+  <span><?php echo JText::_('COM_EASYSOCIAL_PROFILE');?></span>
+  </a>
 </li>
 ```
 
