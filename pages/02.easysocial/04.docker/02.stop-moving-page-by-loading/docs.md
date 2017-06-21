@@ -15,20 +15,23 @@ At first you should make sure that your Docker is positioned on **bottom**. Yes,
 
 ```css
 #es.es-docker.is-bottom {
-	height: 44px;
-	top: 0; }
+  height: 44px;
+  top: 0; 
+}
 
 #es.es-docker.is-bottom.active-menu .docker-popup-window, #es.es-docker.is-bottom.active-mobile-login .docker-popup-window {
-	margin-top: 50px !important;
-	top: 0 !important;
-	margin-bottom: inherit !important;
-	bottom: inherit !important; }
+  margin-top: 50px !important;
+  top: 0 !important;
+  margin-bottom: inherit !important;
+  bottom: inherit !important; 
+}
 
 #es.es-docker.is-bottom.active-quickpost .docker-popup-quickpost {
-	margin-top: 50px !important;
-	top: 0 !important;
-	margin-bottom: inherit !important;
-	bottom: inherit !important; }
+  margin-top: 50px !important;
+  top: 0 !important;
+  margin-bottom: inherit !important;
+  bottom: inherit !important; 
+}
 ```
 
 You will now see that your site is no longer pushed downwards when the docker is loaded.
