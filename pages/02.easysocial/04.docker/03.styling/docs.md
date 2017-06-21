@@ -15,7 +15,8 @@ To change the background color of the Docker use this:
 
 ```css
 #es.es-docker {
-	background: #045979; }
+  background: #045979; 
+}
 ```
 
 Replace this to your favorite color (FFFFFF for white / 000000 for black):
@@ -28,9 +29,10 @@ To have a cool looking gradient you can add this instead of the above one:
 
 ```css
 #es.es-docker {
-	background: #045979;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #1080aa, #045979);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #1080aa, #045979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ }
+  background: #045979;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #1080aa, #045979);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1080aa, #045979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+}
 ```
 
 We want to make sure that it works for as much browsers as possible. That is what the lines are for. The first line is your background color in case the browser does not support gradient. The next lines are the gradients related to the browser the visitor is using. The first color is the left one and the second the right one. The gradient goes from left to right. To change the direction of your gradient replace the "to right" by "to left", "to bottom" or "to top".
@@ -39,16 +41,18 @@ Additionally I like that fact of having a big border below the docker. You shoul
 
 ```css
 #es.es-docker {
-border-bottom: 5px solid #f4ab00; }
+  border-bottom: 5px solid #f4ab00; 
+}
 ```
 
 Of course you can change the color the same way as before. If you want the whole package you can use it like this:
 
 ```css
 #es.es-docker {
-	background: #045979;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #1080aa, #045979);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #1080aa, #045979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-	border-bottom: 5px solid #f4ab00; }
+  background: #045979;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #1080aa, #045979);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1080aa, #045979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  border-bottom: 5px solid #f4ab00; 
+}
 ```
 
