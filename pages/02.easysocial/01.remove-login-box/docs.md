@@ -16,7 +16,7 @@ Open **default.php** inside your override folder and remove the following code:
 
 ```php
 <div>
-	<?php echo $this->html('html.login', $return); ?>
+  <?php echo $this->html('html.login', $return); ?>
 </div>
 ```
 
