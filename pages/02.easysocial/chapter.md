@@ -6,8 +6,8 @@ taxonomy:
 child_type: docs
 ---
 
-### Directory & Reviews component for Joomla
+### Social Network component for Joomla
 
-# JReviews
+# EasySocial
 
-Link to developer: [https://jreviews.com](https://jreviews.com)
+Link to developer: [https://stackideas.com](https://stackideas.com)
