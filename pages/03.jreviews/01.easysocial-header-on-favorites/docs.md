@@ -28,4 +28,4 @@ $esuser = ES::user($testid); ?>
 <div id="es" class="es"> <?php echo ES::template()->html('html.miniheader', $esuser); ?> </div>
 ```
 
-FULL LINK WITHOUT ID means you pick the URL from the browser when you are on the favorites list page of any user. It should look similar to this: https://domain/jreviews/favorites?user= followed by the id. You need to remove the id from the URL before inserting the code into your file!
+FULL LINK WITHOUT ID means you pick the URL from the browser when you are on the favorites list page of any user. It should look similar to this: https://domain/jreviews/favorites?user= followed by the id. You need to remove the id from the URL before pasting the code into your file!
